@@ -1,0 +1,12 @@
+# university Similarity Finder 
+pip install streamlit opencv-python pytesseract scikit-image numpy rapidfuzz
+pip install pdf2image
+
+# photo comparsion
+pip install streamlit pillow pdf2image deepface tensorflow opencv-python-headless numpy rapidfuzz scikit-image pytesseract
+pip install tf-keras
+
+# name comparsion
+pip install pdf2image streamlit pillow easyocr opencv-python-headless
+
+# name checker 
